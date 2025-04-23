@@ -42,8 +42,8 @@ Este projeto foi desenvolvido como parte de um desafio da plataforma **Digital I
 
 ## 🤝 Conecte-se comigo
 
-- LinkedIn: [https://www.linkedin.com/in/reginaldogomesalves/]
-- Portfólio: [reginaldogomes.dev.br]
+- LinkedIn: https://www.linkedin.com/in/reginaldogomesalves
+- Portfólio: reginaldogomes.dev.br
 
 ---
 
