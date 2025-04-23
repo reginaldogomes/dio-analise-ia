@@ -14,17 +14,11 @@ Este projeto foi desenvolvido como parte de um desafio da plataforma **Digital I
 
 ---
 
-## 📸 Prints do Projeto
-
-> Adicione aqui imagens (use `![descrição](caminho-da-imagem)` se os prints estiverem na pasta do projeto ou use links de imagens externas)
-
----
-
 ## 🛠 Tecnologias e Ferramentas
 
 - Git & GitHub
 - Markdown
-- Ferramentas de IA (caso tenha utilizado alguma API ou modelo específico)
+- Ferramentas de IA (ChatGPT)
 
 ---
 
@@ -43,12 +37,6 @@ Este projeto foi desenvolvido como parte de um desafio da plataforma **Digital I
 - A importância de saber comunicar os resultados técnicos
 - Como estruturar um repositório para recrutadores
 - Reforço na prática de versionamento de código e documentação
-
----
-
-## 🔗 Link para o projeto
-
-> [https://github.com/reginaldogomes/portfolio-projeto-dio-ia](https://github.com/reginaldogomes/portfolio-projeto-dio-ia)
 
 ---
 
